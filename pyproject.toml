@@ -10,4 +10,6 @@ dependencies = [
     "langchain>=1.2.6",
     "langchain-core>=1.2.7",
     "langchain-ollama>=1.0.1",
+    "langchain-openrouter>=0.2.9",
+    "streamlit>=1.67.0",
 ]
