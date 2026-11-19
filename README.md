@@ -1,5 +1,5 @@
-**🔮 Numerology Expert (LangGraph Project)**
-**AI-powered Numerology Advisor built using LangGraph**
+**🔮 Numerology Expert (Langchain Project)**
+**AI-powered Numerology Advisor built using Langchain**
 
 Numerology Expert is an experimental AI application that takes a user’s date of birth as input and generates numerology-based insights about their life, personality, strengths, weaknesses, and areas of improvement.
 The project demonstrates how LangGraph can be used to build structured, multi-step reasoning flows using LLMs.
@@ -35,7 +35,7 @@ Final Numerology Insight
 
 **🧪 Tech Stack**
 - Python
-- LangGraph
+- Langchain
 - Ollama / OpenAI-compatible LLM
 - PromptTemplate
 
